@@ -1,20 +1,20 @@
 # WishList
-My WishList
-<br />
-This application allows you to add and manage your task list.
-With a click on one of your tasks, you can mark it as finished or modify it at your convenience !
+
+> This application allows you to add and manage your task list.
+> With a click on one of your tasks, you can mark it as finished or modify it at your convenience !
 
 <br />
-<h3>show all item and mark it as finished</h3>
-
-![](https://github.com/satis-fy/WishList/blob/master/app/Screenshot_20191217-214819.png)
+<h3>Show All Item and Mark It As Finished</h3>
+<img src="https://github.com/satis-fy/WishList/blob/master/app/Screenshot_20191217-214819.png" width="250" />
 
 <br />
-<h3>Simple press to add and modify a task</h3>
-  
-![](https://github.com/satis-fy/WishList/blob/master/app/Screenshot_20191217-214933.png)
+<h3>Simple Press to Add and Modify A Task</h3>
+<img src="https://github.com/satis-fy/WishList/blob/master/app/Screenshot_20191217-214933.png" width="250" />
   
 <br />
-<h3>swipe left to delete a task</h3>
+<h3>Swipe Left to Delete A Task</h3>
+<img src="https://github.com/satis-fy/WishList/blob/master/app/Screenshot_20191217-214950.png" width="250" />
 
-![](https://github.com/satis-fy/WishList/blob/master/app/Screenshot_20191217-214950.png)
+## Usage
+[Click here](https://github.com/satis-fy/Password-Saver/raw/master/Apk/PasswordSaver.apk) to download the WishList Android App.
+
