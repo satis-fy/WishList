@@ -16,5 +16,5 @@
 <img src="https://github.com/satis-fy/WishList/blob/master/app/Screenshot_20191217-214950.png" width="250" />
 
 ## Usage
-[Click here](https://github.com/satis-fy/Password-Saver/raw/master/Apk/PasswordSaver.apk) to download the WishList Android App.
+[Click here](https://github.com/satis-fy/WishList/raw/c1d60127b2151d229ae1d084d9009cf390183e8e/Apk/WishList.apk) to download the WishList Android App.
 
